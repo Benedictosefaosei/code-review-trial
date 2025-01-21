@@ -1,0 +1,19 @@
+[
+  {
+    "filePath": "/Users/benedictoseisefa/Desktop/untitled folder/try.py",
+    "range": {
+      "start": {
+        "line": 6,
+        "character": 0
+      },
+      "end": {
+        "line": 6,
+        "character": 20
+      }
+    },
+    "text": "whooo",
+    "highlightedCode": "print(my_calc(y, x))",
+    "replies": [],
+    "resolved": true
+  }
+]
